@@ -1,4 +1,6 @@
 # 📧 n8n Email Automation Engine
+<img width="1174" height="764" alt="image" src="https://github.com/user-attachments/assets/485dc067-ac74-45b1-987f-de0be0f0ce99" />
+
 
 ![Built With n8n](https://img.shields.io/badge/Built%20With-n8n-orange)
 ![Automation](https://img.shields.io/badge/Type-Workflow%20Automation-blue)
